@@ -43,11 +43,11 @@ class WorkingUnit:
         workingUnitList.append(WorkingUnit(941,"Deniz Ulaştırma İşletme Mühendisliği"))
         workingUnitList.append(WorkingUnit(942,"Gemi Makinaları İşletme Mühendisliği"))
         workingUnitList.append(WorkingUnit(947,"Elektrik Mühendisliği"))
-        # workingUnitList.append(WorkingUnit(1015,"Ekonomi"))
-        # workingUnitList.append(WorkingUnit(1018,"Temel Bilimler"))
-        # workingUnitList.append(WorkingUnit(1019,"Sosyoloji"))
-        # workingUnitList.append(WorkingUnit(1455,"Kontrol ve Otomasyon Mühendisliği"))
-        # workingUnitList.append(WorkingUnit(3704,"Yapay Zeka Ve Veri Mühendisliği"))
-        # workingUnitList.append(WorkingUnit(46,"Kimya"))
+        workingUnitList.append(WorkingUnit(1015,"Ekonomi"))
+        workingUnitList.append(WorkingUnit(1018,"Temel Bilimler"))
+        workingUnitList.append(WorkingUnit(1019,"Sosyoloji"))
+        workingUnitList.append(WorkingUnit(1455,"Kontrol ve Otomasyon Mühendisliği"))
+        workingUnitList.append(WorkingUnit(3704,"Yapay Zeka Ve Veri Mühendisliği"))
+        workingUnitList.append(WorkingUnit(46,"Kimya"))
         return workingUnitList
     
