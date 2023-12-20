@@ -23,6 +23,7 @@ for x in workingUnitList:
   gecenSure = guncellemeEnd - guncellemeStart
   print(response.json())
   print(f"{x.name} Güncelleme Bitti {getTime()} - Geçen Süre : {round(gecenSure,2)} saniye")
+  print(" ")
   time.sleep(1)
 
 
